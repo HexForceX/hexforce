@@ -1,3 +1,7 @@
 theme: minima
-title: HexForce
-description: HexForce page
+title: HexForce - YARA & Sigma Rules Community
+description: We develop cutting-edge YARA & Sigma rules, share technical knowledge, and foster cybersecurity collaboration.
+show_downloads: false
+header_pages:
+  - index.md
+  - rules.md
