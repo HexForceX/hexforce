@@ -1,2 +1,1 @@
-# hexforce.github.io
-HexForce web site
+# HexForce web site
