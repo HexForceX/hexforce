@@ -1,4 +1,4 @@
-theme: minima
+theme: jekyll-theme-minimal
 title: HexForce - YARA & Sigma Rules Community
 description: We develop cutting-edge YARA & Sigma rules, share technical knowledge, and foster cybersecurity collaboration.
 show_downloads: false
